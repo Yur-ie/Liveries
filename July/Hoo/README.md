@@ -16,7 +16,7 @@ Spawncode: 22ford_f350_hotch
 
 Tebex ID: tbx-93918322a68547-e14657
 
-Notes form Consumer: ``Just the basic DHS livery that is basically on every single car``
+Notes from Request: ``Just the basic DHS livery that is basically on every single car``
 
 Confirmed Purchase: ✅
 
@@ -25,7 +25,7 @@ Spawncode: 17silverado_hoo
 
 Tebex ID: tbx-49818322a68411-458ba6
 
-Notes from Consumer: ``Just the basic DHS livery that is basically on every single car ``
+Notes from Request: ``Just the basic DHS livery that is basically on every single car ``
 
 Confirmed Purchase: ✅
 
@@ -34,6 +34,6 @@ Spawncode: integrity18durango_kizzy
 
 Tebex ID: tbx-17118322a68625-f8f4fc
 
-Notes from Consumer: ``Just the basic DHS livery that is basically on every single car ``
+Notes from Request: ``Just the basic DHS livery that is basically on every single car ``
 
 Confirmed Purchase: ✅
