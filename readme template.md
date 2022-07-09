@@ -1,6 +1,6 @@
 # Information
 
-Consumer: <a href="discord.com/users/USER ID"> THEIR CURRENT DISCORD</a> 
+Member: <a href="discord.com/users/USER ID"> THEIR CURRENT DISCORD</a> 
 
 Departments: INSERT DEPARTMENTS HERE
 
