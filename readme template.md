@@ -16,6 +16,6 @@ Spawncode: spawncode
 
 Tebex ID: tbx-####
 
-Notes form Consumer: ``NOTES HERE``
+Notes from Request: ``NOTES HERE``
 
 Confirmed Purchase: ✔/❌
